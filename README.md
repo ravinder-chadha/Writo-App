@@ -1,6 +1,7 @@
 
 # MWrito - Learning App
-
+## To view this Readme file as a webpage click here [mWrito - Readme](https://ravinder-chadha.github.io/Writo-App/)
+---
 ### About Company
 Writo Education Private Limited is a content services platform. They have a large team of students creating Video and Text Solutions for every subject for other organizations.
 ### Product Details
@@ -45,11 +46,7 @@ By creating user flows, we can visualize all the potential paths a user may take
 
 ### Certificate of Internship
 
-<object data="https://drive.google.com/file/d/17FFg9yarHKS-NkKwWlq3E-TMZrGl7x_l/view" type="application/pdf" width="700px" height="700px">
-    <embed src="https://drive.google.com/file/d/17FFg9yarHKS-NkKwWlq3E-TMZrGl7x_l/view">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/17FFg9yarHKS-NkKwWlq3E-TMZrGl7x_l/view">Download PDF</a>.</p>
-    </embed>
-</object>
+<embed src="https://drive.google.com/file/d/17FFg9yarHKS-NkKwWlq3E-TMZrGl7x_l/view"></embed>
 
 ### Credits
 - [Gautam Singla - UI/UX designer](https://github.com/ggsingla)
