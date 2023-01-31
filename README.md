@@ -46,7 +46,7 @@ By creating user flows, we can visualize all the potential paths a user may take
 
 ### Certificate of Internship
 
-<embed src="https://drive.google.com/file/d/17FFg9yarHKS-NkKwWlq3E-TMZrGl7x_l/view"></embed>
+![](https://user-images.githubusercontent.com/78102600/215672013-2a85dacc-661c-4bb4-a730-4c8d62fea02c.jpg)
 
 ### Credits
 - [Gautam Singla - UI/UX designer](https://github.com/ggsingla)
